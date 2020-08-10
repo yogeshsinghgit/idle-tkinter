@@ -1,0 +1,3 @@
+This Idle works fine but it not responds when you use input function for getting inpout from user.
+All the modules used with this projects are inbuilt.
+This code is not mine , i am just sharing it to you for educational purpose.
